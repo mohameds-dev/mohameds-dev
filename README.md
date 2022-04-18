@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @itsmosalah
 - 👀 I’m interested in Computer science.
-- 🌱 I’m currently learning Problem solving concepts and algorithms.
+- 🌱 I’m currently learning Problem solving concepts, mainly datastructures and algorithms.
 - 💞️ I’m looking to collaborate on competitive programming
 - 📫 How to reach me? Through my facebook: https://www.facebook.com/Erwen348/
