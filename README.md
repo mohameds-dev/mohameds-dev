@@ -2,5 +2,5 @@
 - 👀 I’m interested in Computer science.
 - 🌱 I’m currently learning Computer Science concepts and technologies.
 - 💞️ I’m looking to collaborate on competitive programming, Flutter, ReactJS and Django!
-- 📫 How to reach me? Through my LinkedIn: https://www.linkedin.com/in/mohamed-s-abdelrahman-74bb2b23a/
+- 📫 How to reach me? Through my [LinkedIn](https://www.linkedin.com/in/mohamed-s-abdelrahman-74bb2b23a/).
 -  My codeforces handle : mosalah_02
