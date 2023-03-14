@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @itsmosalah
-- 👀 I’m interested in Computer science.
-- 🌱 I’m currently learning Computer Science concepts and technologies.
-- 💞️ I’m looking to collaborate on competitive programming, Flutter, ReactJS and Django!
+I'm a full-stack developer and CS student with a competitive programming background. Mentored students, participated in ECPC and other university contests, and worked on mobile apps (Flutter) and web development (React & Django) projects. Passionate learner originally from Egypt, currently in the US.
+
 - 📫 How to reach me? Through my [LinkedIn](https://www.linkedin.com/in/mohamed-s-abdelrahman-74bb2b23a/).
 -  My codeforces handle : mosalah_02
