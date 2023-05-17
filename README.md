@@ -1,4 +1,5 @@
-I'm a full-stack developer and CS student with a competitive programming background. Mentored students, participated in ECPC and other university contests, and worked on mobile apps (Flutter) and web development (React & Django) projects. Passionate learner originally from Egypt, currently in the US.
+I'm a computer science student with a strong competitive programming background. Mentored students, participated in ECPC and other university contests. I also  worked on mobile apps (Flutter) and worked professionally on full stack projects using Django and ReactJS.
 
-- 📫 How to reach me? Through my [LinkedIn](https://www.linkedin.com/in/mohamed-s-abdelrahman-74bb2b23a/).
--  My codeforces handle : mosalah_02
+-  Reach out to me on [LinkedIn](https://www.linkedin.com/in/mohamed-s-abdelrahman-74bb2b23a/)!
+-  My [Codeforces](https://codeforces.com/profile/mosalah_02)
+-  My [LeetCode](https://leetcode.com/mrmosa02/)
