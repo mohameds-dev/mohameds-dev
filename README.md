@@ -1,4 +1,7 @@
-I'm a computer science student with a strong competitive programming background. Mentored students, participated in ECPC and other university contests. I also  worked on mobile apps (Flutter) and worked professionally on full stack projects using Django and ReactJS.
+I am a software developer, computer science student with a strong competitive programming background.
+I have mentored students in competitive programming and problem solving, participated in ACM-ECPC.
+My software development experience includes working professionally on full stack projects using Django and ReactJS, creating mobile apps using Flutter, and more!
+
 
 -  Reach out to me on [LinkedIn](https://www.linkedin.com/in/mohamed-s-abdelrahman-74bb2b23a/)!
 -  My [Codeforces](https://codeforces.com/profile/mosalah_02)
