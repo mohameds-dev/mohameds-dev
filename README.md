@@ -1,7 +1,7 @@
 # Mohamed Abdelrahman 👋
 
-Hi, I’m Mohamed — a CS student into software engineering with a background in competitive programming.
-I’ve led coding events, mentored ICPC teams, and built apps across multiple stacks.
+Hi, I’m Mohamed — a CS student passionate about software engineering and competitive programming.  
+I’ve led coding events, mentored students for ICPC-style contests, and built full-stack apps across different stacks.  
 Always building, always learning.
 
 ## Skills 🛠️
@@ -42,3 +42,22 @@ As an aspiring software engineer, I focus on solving problems effectively regard
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-s-abdelrahman-74bb2b23a/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/mosalah_02)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/mrmosa02/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/agentmohamed_47)
+
+### My Competitive Programming Stats
+
+<table>
+  <tr>
+    <td>
+      <a href="https://codeforces.com/profile/mosalah_02">
+        <img src="https://codeforces-readme-stats.vercel.app/api/card?username=mosalah_02" />
+      </a>
+    </td>
+    <td>
+      <a href="https://leetcode.com/mrmosa02">
+        <img src="https://leetcard.jacoblin.cool/mrmosa02" />
+      </a>
+    </td>
+  </tr>
+</table>
+
