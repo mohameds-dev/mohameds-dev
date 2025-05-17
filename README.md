@@ -3,6 +3,8 @@
 Hi, I’m Mohamed — a CS student passionate about software engineering and competitive programming.  
 I’ve led coding events, mentored students for ICPC-style contests, and built full-stack apps across different stacks.  
 Always building, always learning.
+<br>
+👉 [Visit my portfolio](https://mohamed-a-portfolio.vercel.app/)
 
 ## Skills 🛠️
 
